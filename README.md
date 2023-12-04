@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with PHP/LARAVEL
 - 💬 Ask me about JS
 - 📫 How to reach me: oury22214@gmail.com
-- ⚡ Fun fact: 🙄
